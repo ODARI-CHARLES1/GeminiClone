@@ -1,0 +1,26 @@
+/* customised styles to be used in tailwindcss */
+
+@font-face {
+  font-family: Outfit;
+  src: url(../../GeminiClone/src/Fonts/Outfit-Regular.ttf);
+}
+
+@import "tailwindcss";
+
+@theme {
+  --font-outift:Outfit,"sans-serif";
+  --color-sidebar:#f0f4f9;
+  --color-nav:#585858;
+  --color-card-hover:#dfdfdf;
+  --color-search-box:#f0f4f9;
+  --color-greet:#c4c7c5;
+}
+
+
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+.bg-size{
+  background-size: 800px 50px;
+}
