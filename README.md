@@ -24,7 +24,7 @@ The **Gemini Clone Website** is a replication of Google's Gemini AI interface, b
 ## Installation & Setup
 1. Clone the repository:
    ```sh
-   git clone https://github.com/odariKcharles/gemini-clone.git
+   git clone https://github.com/ODARI-CHARLES1/gemini-clone.git
    ```
 2. Navigate to the project directory:
    ```sh
