@@ -7,15 +7,15 @@ The **Gemini Clone Website** is a replication of Google's Gemini AI interface, b
 **Odari K. Charles**
 
 ## Features
- [AI Chatbot Interface](#AI Chatbot Interface)
+ - [AI Chatbot Interface](#AI-Chatbot-Interface)
  
- [Responsive Design](#AI Chatbot Interface)
+ - [Responsive Design](#AI-Chatbot-Interface)
  
- [Real-time Data Processing](#AI Chatbot Interface)
+ - [Real-time Data Processing](#AI-Chatbot-Interface)
  
- [Dark & Light Mode Support](# AI Chatbot Interface)
+ - [Dark & Light Mode Support](#AI-Chatbot-Interface)
  
- [ Secure Authentication System](# AI Chatbot Interface)
+ - [Secure Authentication System](#AI-Chatbot-Interface)
 
 ## Technologies Used
 - **Frontend:** React+Vite,TailwindCss
